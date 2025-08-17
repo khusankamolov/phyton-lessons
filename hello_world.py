@@ -5,10 +5,10 @@ Created on Sat Aug  9 12:17:08 2025
 @author: Surface
 """
 
-#x = int(input("Birinchi sonni kiriting:"))
-#y = int(input('Ikkinchi sonni kiriting:'))
-#if x==y:
-#    print(f'{x}=555{y}')
+x = int(input("Birinchi sonni kiriting:"))
+y = int(input('Ikkinchi sonni kiriting:'))
+if x==y:
+   print(f'{x}=555{y}')
 #elif x>y:
 #    print(f'{x}>{y}')
 #elif x<y:
