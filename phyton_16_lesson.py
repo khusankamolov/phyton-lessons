@@ -45,9 +45,9 @@ davlatlar = {"o'zbekiston":{'poytaxt':'toshkent','hudud':448978,'aholi':38,
 davlat=input('Istagan davlatingiz nomini kiriting:').lower()
 if davlat in davlatlar.keys():
     info=davlatlar[davlat]
-    print(f'\n{davlat.capitalize()}ning poytaxti {info['poytaxt'].title()} \n'
-             f'Hudud {info['hudud']}kv \n'
-             f'Aholi soni {info['aholi']}million \n'
-             f'Pul birligi {info['pul birligi']}')
+    print(f"\n{davlat.capitalize()}ning poytaxti {info['poytaxt'].title()} \n"
+             f"Hudud {info['hudud']}kv \n"
+             f"Aholi soni {info['aholi']}million \n"
+             f"Pul birligi {info['pul birligi']}")
 else:
          print('Bizda bunday malomot yo\'q')

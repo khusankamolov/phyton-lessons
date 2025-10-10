@@ -29,5 +29,4 @@ tarjima=lugatlar.get(key)
 if tarjima==None:
     print("Bizda bunday kalit so'z mavjud emas.")
 else:
-    print(f"'{key.title()}' kalit so'zning \
-tarjimasi {tarjima}.")
+     print(f"{key.title()}ning tarjimasi {tarjima.title()}")
