@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 15 20:55:06 2025
+Created on Sun Oct 19 21:31:04 2025
 
 @author: Surface
 """
@@ -24,3 +24,5 @@ sp(school4)
 #from school_info_mod import *
 #school5 =school_info('harvard',1912,14000,'business',2000)
 #school_print(school5)
+from find_word_games import play
+play()

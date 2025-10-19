@@ -33,7 +33,7 @@ def son_top(x=10):
 def son_top_pc(x=10):
     tahminlar2=0
     input(f"\n1 dan {x} gacha son o'ylang. Men topishga harakat qilaman.Agar son o'ylagan"
-          " bo'lsangiz,istalgan tugmani bosing.")
+          f" bo'lsangiz,istalgan tugmani bosing.")
     quyi=1
     yuqori=x
     while True:
