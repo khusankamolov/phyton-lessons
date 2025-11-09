@@ -56,6 +56,8 @@ class TalabaTest(unittest.TestCase):
         self.assertEqual('FI12345678',self.talaba.idraqam)
     def test_get_bosqich(self):
         self.assertEqual(1,self.talaba.bosqich)
+    def test_shaxs(self):
+        self.assertTrue(isinstance(self.talaba, Shaxs))
 
 
 

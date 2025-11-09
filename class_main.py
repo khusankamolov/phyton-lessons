@@ -44,3 +44,8 @@ class Talaba(Shaxs):
         info = f"{self.ism} {self.familiya}. "
         info += f"{self.get_bosqich()}-bosqich. ID raqami: {self.idraqam}"
         return info
+    def get_shaxstype(self):
+        if isinstance(self, Shaxs):
+            return True
+        else:
+            return False
