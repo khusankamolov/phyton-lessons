@@ -1,1 +1,0 @@
-"""This is link to use my first AI app >> http://localhost:8013/"""
