@@ -1,8 +1,7 @@
-Hi, I'm Husan 👋
+Hi, I'm Husanjon 👋
 
 I'm a student who enjoys programming and solving problems.
-I mainly work with Python and build small projects, games, and useful scripts.
-
+I mainly work with Python, machine learning, pandas, NumPy, and other data science libraries. I build projects, mini-games, and practical scripts, focusing on applying my skills to real-world problems.
 About Me
 
 💻 Learning programming and improving every day
@@ -11,13 +10,13 @@ About Me
 
 🧠 Interested in algorithms and problem solving
 
-🎯 Goal: become a strong software engineer
+🎯 Goal: become a strong AI engineer
 
 What I Have Here
 
 🎮 Simple games (console-based)
 
-📊 Small projects and experiments
+📊 Real-world projects and experiments
 
 🧩 Algorithm practice and solutions
 
@@ -26,4 +25,4 @@ What I Have Here
 Skills
 Python
 Data structures & algorithms (beginner-intermediate)
-Data science and AI(pandas, numpy, data structuring)
+Data science and AI(pandas, numpy, data structuring, ML)
