@@ -84,7 +84,7 @@ The models were evaluated using:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/khusankamolov/phyton-lessons.git
 ```
 
 2. Install the required libraries
