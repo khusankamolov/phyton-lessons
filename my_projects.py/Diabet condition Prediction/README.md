@@ -97,7 +97,7 @@ The models were evaluated using:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction-ml.git
+git clone https://github.com/khusankamolov/phyton-lessons.git
 ```
 
 2. Install dependencies

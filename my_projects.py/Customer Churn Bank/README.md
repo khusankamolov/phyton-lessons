@@ -139,7 +139,7 @@ Each model was evaluated using:
 Clone the repository
 
 ```bash
-git clone https://github.com/khusankamolov/customer-churn-bank.git
+git clone https://github.com/khusankamolov/phyton-lessons.git
 ```
 
 Install dependencies
