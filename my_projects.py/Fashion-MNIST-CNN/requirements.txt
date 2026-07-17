@@ -1,0 +1,5 @@
+torch>=2.0.0
+torchvision>=0.15.0
+notebook>=7.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
