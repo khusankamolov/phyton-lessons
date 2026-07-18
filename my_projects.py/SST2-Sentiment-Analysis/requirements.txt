@@ -1,0 +1,16 @@
+text
+torch
+transformers
+datasets
+accelerate
+evaluate
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+gradio
+ipywidgets
+huggingface_hub
+
+
