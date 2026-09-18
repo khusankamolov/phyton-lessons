@@ -1,28 +1,22 @@
-Hi, I'm Husanjon 👋
+# Hi, I'm Husanjon Kamolov
 
-I'm a student who enjoys programming and solving problems.
-I mainly work with Python, machine learning, pandas, NumPy, and other data science libraries. I build projects, mini-games, and practical scripts, focusing on applying my skills to real-world problems.
-About Me
+I'm a student and aspiring **AI Engineer** from Uzbekistan. I enjoy programming, solving problems, and building practical projects with Python, machine learning, and data science.
 
-💻 Learning programming and improving every day
+## About Me
 
-🐍 Mostly coding in Python
+* Mainly working with **Python**
+* Interested in **Machine Learning, Deep Learning, and Data Science**
+* Building projects with real-world datasets
+* Practicing algorithms and problem solving
+* Learning through hands-on projects and experimentation
+* Currently focused on becoming a strong **AI Engineer**
 
-🧠 Interested in algorithms and problem solving
+## Projects
 
-🎯 Goal: become a strong AI engineer
+I build practical projects across **machine learning, data science, and Python development**. My work includes data analysis and preprocessing, predictive modeling, classification and regression, clustering, and deep learning experiments. I also work on smaller programming projects, algorithms, and tools to strengthen my problem-solving and development skills.
 
-What I Have Here
+## Skills
 
-🎮 Simple games (console-based)
+**Python · NumPy · pandas · Matplotlib · scikit-learn · XGBoost · CatBoost · Machine Learning · Deep Learning · PostgreSQL · Git**
 
-📊 Real-world projects and experiments
-
-🧩 Algorithm practice and solutions
-
-⚙️ Useful Python scripts
-
-Skills
-Python
-Data structures & algorithms (beginner-intermediate)
-Data science and AI(pandas, numpy, data structuring, ML)
+Always learning, building, and improving.
