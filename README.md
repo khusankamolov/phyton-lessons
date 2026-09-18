@@ -4,7 +4,7 @@ I'm a student and aspiring **AI Engineer** from Uzbekistan. I enjoy programming,
 
 ## About Me
 
-* Mainly working with **Python**
+* Mainly working with **Notebook** and **Python**
 * Interested in **Machine Learning, Deep Learning, and Data Science**
 * Building projects with real-world datasets
 * Practicing algorithms and problem solving
@@ -17,6 +17,6 @@ I build practical projects across **machine learning, data science, and Python d
 
 ## Skills
 
-**Python · NumPy · pandas · Matplotlib · scikit-learn · XGBoost · CatBoost · Machine Learning · Deep Learning · PostgreSQL · Git**
+**Python · NumPy · pandas · Matplotlib · scikit-learn · XGBoost · CatBoost · Machine Learning · Deep Learning · PostgreSQL · Git · NLP · Computer Vision**
 
 Always learning, building, and improving.
